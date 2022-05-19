@@ -1,0 +1,30 @@
+body{
+    background-color: wheat;
+}
+
+table{
+    width: 80%;
+    margin: auto;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    height: 30px;
+}
+
+div#szinhazterem{
+    max-width: 80%;
+    margin: 0 auto;
+}
+.foglalt{
+    border: solid 1px black;
+    background-color:red;
+}
+.szabad{
+    border: solid 1px black;
+    background-color:green;
+}
+
+h1,p,h2{
+    text-align: center;
+}
