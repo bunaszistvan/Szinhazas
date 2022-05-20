@@ -41,7 +41,7 @@ h1,p,h2{
 }
 .jobb{
     flex:1;
-    text-alignment: right;
+    text-align: right;
 }
 #osszesen{
     background-color:black;
