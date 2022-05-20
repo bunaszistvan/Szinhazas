@@ -28,3 +28,22 @@ div#szinhazterem{
 h1,p,h2{
     text-align: center;
 }
+.rendeles{
+    border: 1px solid red;
+    border-radius: 5px;
+    paddig: 20px;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: 20 px;
+}
+.ar{
+    display: flex;
+}
+.jobb{
+    flex:1;
+    text: text-align: right;
+}
+#osszesen{
+    background-color:black;
+    color: white;
+}
